@@ -1,0 +1,10 @@
+C:\Users\DELL\Documents\evaluación LSII-C\Parcial C\lisw2_parcial01_benitezB\lisw2-parcial01-benitezb\src\main\java\co\edu\unicauca\saberpro\Main.java
+C:\Users\DELL\Documents\evaluación LSII-C\Parcial C\lisw2_parcial01_benitezB\lisw2-parcial01-benitezb\src\main\java\co\edu\unicauca\saberpro\model\Pregunta.java
+C:\Users\DELL\Documents\evaluación LSII-C\Parcial C\lisw2_parcial01_benitezB\lisw2-parcial01-benitezb\src\main\java\co\edu\unicauca\saberpro\pipeline\FiltroEnunciado.java
+C:\Users\DELL\Documents\evaluación LSII-C\Parcial C\lisw2_parcial01_benitezB\lisw2-parcial01-benitezb\src\main\java\co\edu\unicauca\saberpro\pipeline\FiltroOpciones.java
+C:\Users\DELL\Documents\evaluación LSII-C\Parcial C\lisw2_parcial01_benitezB\lisw2-parcial01-benitezb\src\main\java\co\edu\unicauca\saberpro\pipeline\IFiltroPregunta.java
+C:\Users\DELL\Documents\evaluación LSII-C\Parcial C\lisw2_parcial01_benitezB\lisw2-parcial01-benitezb\src\main\java\co\edu\unicauca\saberpro\pipeline\ValidadorPipeline.java
+C:\Users\DELL\Documents\evaluación LSII-C\Parcial C\lisw2_parcial01_benitezB\lisw2-parcial01-benitezb\src\main\java\co\edu\unicauca\saberpro\repository\IPreguntaRepository.java
+C:\Users\DELL\Documents\evaluación LSII-C\Parcial C\lisw2_parcial01_benitezB\lisw2-parcial01-benitezb\src\main\java\co\edu\unicauca\saberpro\repository\PreguntaRepositoryImpl.java
+C:\Users\DELL\Documents\evaluación LSII-C\Parcial C\lisw2_parcial01_benitezB\lisw2-parcial01-benitezb\src\main\java\co\edu\unicauca\saberpro\service\IPreguntaService.java
+C:\Users\DELL\Documents\evaluación LSII-C\Parcial C\lisw2_parcial01_benitezB\lisw2-parcial01-benitezb\src\main\java\co\edu\unicauca\saberpro\service\PreguntaServiceImpl.java
